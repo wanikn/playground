@@ -7,17 +7,16 @@ verify_ssl = true
 pylint = "*"
 
 [packages]
-list = "*"
 scikit-learn = "*"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
-tensorflow = "*"
 chainer = "*"
 ipython = "*"
 flake8 = "*"
 autopep8 = "*"
 jupyterlab = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.7"
